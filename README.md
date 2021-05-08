@@ -1,3 +1,9 @@
+## Raspberrry PI Zero
+
+### GPIO Pins
+
+![gpio-pins-rapsberry-pi-zero](./assets/gpio-pins.png)
+
 ## IQaudio Codec Zero
 
 ![iq audio codec zero](./assets/iq-audio-codec-zero.jpg)

@@ -12,7 +12,7 @@ The Codec Zero delivers bi-directional digital audio signals (I2S) between the R
 
 IQaudio Codec Zero has GREEN (GPIO23) and RED (GPIO24) LEDs that can be used for status, and a tactile button (GPIO27) that can be used to start an event. Codec Zero makes a great starting point for a walkie talkie, intelligent doorbell, vintage radio hack, or smart speaker.
 
-#### Adding the IQaudio sound card to your Raspberry Pi
+### Adding the IQaudio sound card to your Raspberry Pi
 
 [Source - Page 11](https://datasheets.raspberrypi.org/iqaudio/iqaudio-product-brief.pdf)
 

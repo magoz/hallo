@@ -36,7 +36,7 @@ Qaudio range of sound cards for the Raspberry Pi take advantage of a number of P
 
 Some of these signals are solely for the use of the IQaudio board and some can be shared with other peripherals, sensors, etc. 
 
-The information below covers the general cases. For more Raspberry Pi GPIO information please see the excellent site: [https://pinout.xy](https://pinout.xy)
+The information below covers the general cases. For more Raspberry Pi GPIO information please see the excellent site: [https://pinout.xyz](https://pinout.xyz)
 
 We expect the following Raspberry Pi GPIO to be used by IQaudio audio boards:
 
